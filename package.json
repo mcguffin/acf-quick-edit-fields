@@ -51,7 +51,7 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
-    "jquery": "^3.5.1",
+    "jquery": "^3.5.0",
     "sass": "^1.30.0"
   },
   "engines": {
